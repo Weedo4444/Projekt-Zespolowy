@@ -19,7 +19,7 @@ Webowa aplikacja pozwalająca użytkownikom na śledzenie, analizę i optymaliza
 
 ```bash
 # klonowanie repozytorium
-git clone https://github.com/nazwa-uzytkownika/nazwa-repozytorium.git
+git clone https://github.com/Weedo4444/Projekt-Zespolowy.git
 cd nazwa-repozytorium
 
 # utworzenie środowiska wirtualnego
